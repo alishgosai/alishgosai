@@ -22,14 +22,14 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 
-![download](https://github.com/alishgosai/alishgosai/assets/143699191/e5e97d67-bcdf-4d94-88f9-43e4507e3a20)
-
 ## 🎨 Other Interests
 
 |                                         |                                                |
 | :-------------------------------------- | :--------------------------------------------- |
-|  🚴‍♂️ I like **[Mountainbiking](https://www.youtube.com/@ALISHGOSAI)** <br> ✏️ I'm interested in **[Drawing & Pyro](https://www.facebook.com/stories/2398876757073650/?source=profile_highlight)** <br> 📸 I like editing **[Photo & Video](https://www.instagram.com/alish___gosai/)** <img src="https://github.com/alishgosai/alishgosai/assets/143699191/89664e56-f0cb-495d-8d79-fdb021d0dc71" alt="The Power of Visuals" width="300px">| <img src="https://github.com/alishgosai/alishgosai/assets/143699191/a4d34e33-0c4c-4da6-97d9-82fbba22b801" alt="The Power of Visuals" width="100%"> |
+|  🚴‍♂️ I like **[Mountainbiking](https://www.youtube.com/@ALISHGOSAI)** <br> ✏️ I'm interested in **[Drawing & Pyrography](https://www.facebook.com/stories/2398876757073650/?source=profile_highlight)** <br> 📸 I like editing **[Photo & Video](https://www.instagram.com/alish___gosai/)** <img src="https://github.com/alishgosai/alishgosai/assets/143699191/3ebbcc28-3b87-4f7b-94b2-eb71b5d1e642" alt="Black and Beige Modern Beauty and Fashion Logo (6)" width="auto">| <img src="https://github.com/alishgosai/alishgosai/assets/143699191/a4d34e33-0c4c-4da6-97d9-82fbba22b801" alt="The Power of Visuals" width="100%"> |
 |                                         |                                                |
+
+
 <br>
 <p><img align="center", width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alishgosai" alt="alishgosai" /></p>
 
