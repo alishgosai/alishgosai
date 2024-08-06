@@ -5,7 +5,7 @@
 
 ## Hi, I’m Alish Gosai
 
-- 🔥 I’m passionate about **[Web Development](https://alish-gosai.webflow.io/)**
+- 🔥 I’m passionate about **[Web Development](https://alishgosai.com)**
 - 🌱 Currently enhancing my skills in **Javascript**
 - 💬 Connect with me on **[Linkedin](https://www.linkedin.com/in/alishgosai/)  [Facebook](https://www.facebook.com/alishgosai)  [Twitter](https://x.com/intent/follow?screen_name=alishgosai&followConfirm=true)**
 - ❤️ Follow me on **[Youtube](www.youtube.com/c/ALISHGOSAI?sub_confirmation=1)  [Instagram](https://www.instagram.com/alish___gosai/)  [Fb Page](https://www.facebook.com/profile.php?id=100063920770308)  [GitHub](https://github.com/alishgosai)**
