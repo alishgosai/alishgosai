@@ -41,6 +41,6 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alishgosai&theme=onestar&column=8&no-frame=true&no-bg=true" alt="alishgosai" width="100%" height="200px" width="100%%/>
+    <img src="https://github-profile-trophy.vercel.app/?username=alishgosai&theme=onestar&column=8&no-frame=true&no-bg=true" alt="alishgosai" width="100%" height="200px"/>
   </a>
 </p>
