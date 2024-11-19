@@ -34,6 +34,20 @@
 
 
 <br>
-<p><img align="center", width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alishgosai" alt="alishgosai" /></p>
+
+
+<p align="center">
+  <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alishgosai&theme=dark&hide_border=true" alt="alishgosai" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishgosai&layout=compact&theme=dark&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alishgosai&theme=flat&column=4" alt="alishgosai" width="100%" />
+  </a>
+</p>
+
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishgosai" alt="alishgosai" width="100%" /></a> </p>
